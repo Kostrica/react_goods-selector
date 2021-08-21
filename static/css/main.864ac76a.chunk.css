@@ -1,0 +1,2 @@
+.selectedGood{display:flex;justify-content:space-between;align-items:center;width:600px}.selectedGood .buttonСlean{height:25px;width:60px}.selectedGood .buttonСlean:hover{cursor:pointer}.goodBox{display:flex}.goodBox .good{display:block;width:100px}.goodBox .good .goodName{margin:3px 0 0 10px}.goodBox .selected{background-color:#708090;color:#fff}.goodBox .buttonBox{padding:0 5px 5px;height:20px}.goodBox .buttonBox .button{width:60px}.goodBox .buttonBox .button:hover{cursor:pointer}
+/*# sourceMappingURL=main.864ac76a.chunk.css.map */
